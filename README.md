@@ -8,7 +8,7 @@ The test subjects are in the subject_test.txt file.
 
 The same holds for the training set.
 
-About the script and the tidy dataset
+### About the script and the tidy dataset
 -------------------------------------
 I created a script called run_analysis.R which will merge the test and training sets together.
 Prerequisites for this script:
